@@ -1,0 +1,2 @@
+list1=[5,0,2,[],'']
+print (list(bool(list1)))

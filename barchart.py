@@ -8,4 +8,4 @@ plt.bar(categories,values)
 plt.title("Bar Chart")
 plt.xlabel("X-axis")
 plt.ylabel("Y-axis")
-plt.show
+plt.show()

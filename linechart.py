@@ -7,4 +7,4 @@ plt.plot(x,y)
 plt.title("Line Chart")
 plt.xlabel("X-axis")
 plt.ylabel("Y-axis")
-plt.show
+plt.show()
